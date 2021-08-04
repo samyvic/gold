@@ -68,7 +68,7 @@
              <a href="feedback.html"><i class="fas fa-users"></i><span>آراء العملاء</span></a>
              <a href="register.php" class="active"><i class="fas fa-user-plus"></i><span>تسجيل</span></a>
              <a href="https://twitter.com/login"><i class="fab fa-twitter"></i></a>
-             <a href="https://www.instagram.com/?hl=en"><i class="fab fa-instagram"></i></a>
+             <a href="https://www.instagram.com/?hl=en"><i class="fab fa-snapchat-ghost"></i></a>
              <a href="https://api.whatsapp.com/send?phone=+966 56 378 0545&amp;text=&amp;source=&amp;data=&amp;app_absent=" class="whats"><i class="fab fa-whatsapp"></i></a>
            </div>
 
@@ -105,7 +105,7 @@
           </a>
           <div class="box box6">
               <a href="https://twitter.com/login"><i class="fab fa-twitter"></i></a>
-              <a href="https://www.instagram.com/?hl=en"><i class="fab fa-instagram"></i></a>
+              <a href="https://www.instagram.com/?hl=en"><i class="fab fa-snapchat-ghost"></i></a>
               <a href="https://api.whatsapp.com/send?phone=+966 56 378 0545&amp;text=&amp;source=&amp;data=&amp;app_absent=" class="whats"><i class="fab fa-whatsapp"></i></a>
           </div>
         </div>
