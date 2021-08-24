@@ -134,7 +134,7 @@
               <input type="text" name="phone" value="رقم الجوال*" onfocus="if(this.value==this.defaultValue)this.value=''"
               onblur="if(this.value=='')this.value=this.defaultValue">
 
-              <input type="email" name="email" value="البريد الإليكتروني*" onfocus="if(this.value==this.defaultValue)this.value=''"
+              <input type="email" name="email" value="البريد الالكتروني *" onfocus="if(this.value==this.defaultValue)this.value=''"
               onblur="if(this.value=='')this.value=this.defaultValue">
 
               <input class="button" type="submit" value="تسجيل">
